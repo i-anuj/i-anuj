@@ -14,7 +14,13 @@
 - ⚙️ Passionate about **automation**, **infrastructure-as-code (IaC)**, and **GitOps**
 - 🚀 Always building solutions that are **secure, scalable, and production-ready**
 - 📚 Currently enhancing skills in **Kubernetes (AKS)** and **GitHub Actions CI/CD**
-- 📫 Reach me at : your-email@example.com
+## 📫 Reach Me
+
+<p>
+<a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
