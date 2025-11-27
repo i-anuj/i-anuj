@@ -1,108 +1,92 @@
-<h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">Cloud • DevOps • Cybersecurity Professional</h3>
+<h1 align="center">Hi, I'm Anuj</h1> <h3 align="center">Cloud • DevOps • Cybersecurity Professional</h3> <p align="center"> <strong>Azure | DevOps | Security | Automation | GitOps | Cloud Engineering</strong> </p>
+About Me
 
-<p align="center">
-  <strong>Azure | DevOps | Security | Automation | GitOps | Cloud Engineering</strong>
-</p>
+Cloud & DevOps Engineer with strong expertise in Azure and Cloud Security
 
----
+Skilled in Identity, Zero Trust, Governance, Network Security, and Infrastructure Hardening
 
-## 🚀 About Me
+Passionate about automation, infrastructure-as-code (IaC), and GitOps
 
-- 🌩️ Cloud & DevOps Engineer with strong expertise in **Azure** and **Cloud Security**
-- 🔐 Skilled in **Identity**, **Zero Trust**, **Governance**, **Network Security**, and **Infrastructure Hardening**
-- ⚙️ Passionate about **automation**, **infrastructure-as-code (IaC)**, and **GitOps**
-- 🚀 Always building solutions that are **secure, scalable, and production-ready**
-- 📚 Currently enhancing skills in **Kubernetes (AKS)** and **GitHub Actions CI/CD**
-## 📫 Reach Me
+Always building solutions that are secure, scalable, and production-ready
 
-<p>
-<a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+Currently enhancing skills in Kubernetes (AKS) and GitHub Actions CI/CD
 
----
+Reach Me
+<p> <a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+Certifications
+Microsoft Azure
 
-## 🏆 Certifications
+AZ-104 — Azure Administrator Associate
 
-### 🔹 **Microsoft Azure**
-- 🟦 **AZ-104** — Azure Administrator Associate  
-- 🛡️ **AZ-500** — Azure Security Engineer Associate  
-- ☁️ **AZ-900** — Azure Fundamentals  
+AZ-500 — Azure Security Engineer Associate
 
-### 🔹 **Google Certifications**
-- 🔐 **Google Cybersecurity Professional Certificate**
+AZ-900 — Azure Fundamentals
 
----
+Google Certifications
 
-## 🧰 Tech Stack & Tools
+Google Cybersecurity Professional Certificate
 
-### ☁️ Cloud
-- **Azure** (VM, VNet, NSG, App Service, Functions, ACR, AKS, IAM, Key Vault)
-- **AWS** (EC2, IAM, S3, Lambda)
+Tech Stack & Tools
+Cloud
 
-### ⚙️ DevOps & Automation
-- CI/CD: **GitHub Actions**, **Azure DevOps Pipelines**
-- Containers: **Docker**, **Kubernetes (AKS)**
-- GitOps: **ArgoCD**
+Azure (VM, VNet, NSG, App Service, Functions, ACR, AKS, IAM, Key Vault)
 
-### 🧱 Infrastructure as Code
-- **Terraform**
+AWS (EC2, IAM, S3, Lambda)
 
-### 🔐 Security & Compliance
-- Identity & Access Management (IAM)  
-- Azure AD / Entra ID  
-- Key Vault, Secrets Mgmt  
-- Network Security / Zero Trust  
-- Defender for Cloud  
+DevOps & Automation
 
-### 🧪 Scripting & Automation
-- Python  
-- Bash  
+CI/CD: GitHub Actions, Azure DevOps Pipelines
 
----
+Containers: Docker, Kubernetes (AKS)
 
-## 📦 Featured Projects
+GitOps: ArgoCD
 
-### 🔹 **ArgoCD GitOps Deployment**
-- GitOps workflow to deploy applications on Kubernetes  
-- Manifests, Helm charts, automated sync  
-- Repo: `argocd`
+Infrastructure as Code
 
-### 🔹 **AWS Infrastructure Scripts**
-- AWS automation using CLI + Python  
-- Infrastructure provisioning examples  
-- Repo: `aws`
+Terraform
 
-### 🔹 **Java & Python Projects**
-- Various backend and scripting utilities  
-- Repos: `java`, `python`
+Security & Compliance
 
----
+Identity & Access Management (IAM)
 
-## 📊 GitHub Stats
+Azure AD / Entra ID
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-anuj&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-anuj&layout=compact&theme=tokyonight" />
-</p>
+Key Vault, Secrets Mgmt
 
----
+Network Security / Zero Trust
 
-## 🤝 Connect With Me
+Defender for Cloud
 
-<p>
-<a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+Scripting & Automation
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+Python
 
----
+Bash
 
-⭐ **Thanks for visiting! Feel free to explore my repositories or connect with me.**
+Featured Projects
+ArgoCD GitOps Deployment
+
+GitOps workflow to deploy applications on Kubernetes
+
+Manifests, Helm charts, automated sync
+
+Repo: argocd
+
+AWS Infrastructure Scripts
+
+AWS automation using CLI + Python
+
+Infrastructure provisioning examples
+
+Repo: aws
+
+Java & Python Projects
+
+Various backend and scripting utilities
+
+Repos: java, python
+
+GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-anuj&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-anuj&layout=compact&theme=tokyonight" /> </p>
+Connect With Me
+<p> <a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
