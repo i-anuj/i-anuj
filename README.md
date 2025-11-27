@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anuj</h1> <h3 align="center">Cloud • DevOps • Cybersecurity Professional</h3> <p align="center"> <strong>Azure | DevOps | Security | Automation | GitOps | Cloud Engineering</strong> </p>
+<h1 align="center">Hi 👋, I'm Anuj</h1> <h3 align="center">Cloud • DevOps • Cybersecurity Professional</h3> <p align="center"> <strong>Azure | DevOps | Security | Automation | GitOps | Cloud Engineering</strong> </p>
 About Me
 
 Cloud & DevOps Engineer with strong expertise in Azure and Cloud Security
@@ -90,3 +90,5 @@ GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-anuj&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-anuj&layout=compact&theme=tokyonight" /> </p>
 Connect With Me
 <p> <a href="https://www.linkedin.com/in/anuj-singh-b24ba526a" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+Thanks for visiting! Feel free to explore my repositories or connect with me.
