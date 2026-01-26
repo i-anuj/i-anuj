@@ -31,6 +31,7 @@ I'm a Cloud & DevOps Engineer with hands-on experience in Microsoft Azure and a 
 ## Certifications
 
 ### Microsoft Azure
+- AZ-400 — Azure DevOps Engineer Expert
 - AZ-104 — Azure Administrator Associate  
 - AZ-500 — Azure Security Engineer Associate  
 - AZ-900 — Azure Fundamentals  
